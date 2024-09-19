@@ -1,13 +1,12 @@
 <p align="center">
  <h1>Hi 👋, I'm ghandoog </h1>
  <h3>Web Developer 👨‍💻</h3>
- <a href="https://www.linkedin.com/in/ghandoog/"><svg xmlns="http://www.w3.org/2000/svg" width="34" height="34" viewBox="0 0 34 34" class="global-nav__logo">
-      <title>
-        LinkedIn
-      </title>
-      <g>
-      	<path d="M34,2.5v29A2.5,2.5,0,0,1,31.5,34H2.5A2.5,2.5,0,0,1,0,31.5V2.5A2.5,2.5,0,0,1,2.5,0h29A2.5,2.5,0,0,1,34,2.5ZM10,13H5V29h5Zm.45-5.5A2.88,2.88,0,0,0,7.59,4.6H7.5a2.9,2.9,0,0,0,0,5.8h0a2.88,2.88,0,0,0,2.95-2.81ZM29,19.28c0-4.81-3.06-6.68-6.1-6.68a5.7,5.7,0,0,0-5.06,2.58H17.7V13H13V29h5V20.49a3.32,3.32,0,0,1,3-3.58h.19c1.59,0,2.77,1,2.77,3.52V29h5Z" fill="currentColor"></path>
-      </g>
-    </svg></a>
+ 
+ <section>
+![LinkedIn]([http://url/to/img.png](https://www.google.com/search?sca_esv=1b48ff7aa1c3bcf4&sca_upv=1&sxsrf=ADLYWILfQb4zdhp4DYlhjtW8rpIZHVIudw:1726714431343&q=linkedin+image&udm=2&fbs=AEQNm0A-SiU_k8t_ThYF3jXXtt7S9ax4Dod9Yfl8gF2QkeiucheyxUjKao5zFjss4UAb_dL-Baq7NdSWQwtlrw2eiM2Bl3Ff1ZbIcTBXM6udfu_PW3mR6jdnAwktY0ISOWbhIrJDDjqXo8xF_wS3oDgmy5oEZpj6DDbRNuiHL-QRuZ5kQjCUQ8nKaN5iVLYrVIcSnbzlV4ElL0vPU3OeUt3XVHLAZe1F8xtvM8AFt2OhFHwApYJNkAmU6C8Uc8KXe6tEN1p6Gr2A&sa=X&ved=2ahUKEwjK8bvCgM6IAxUl9bsIHXyiDNMQtKgLegQIERAB&biw=1440&bih=787&dpr=2#vhid=hRVO_EXSa77khM&vssid=mosaic))
+![alt text](http://url/to/img.png)
+![alt text](http://url/to/img.png)
+![alt text](http://url/to/img.png)
+ </section>
 </p>
 
